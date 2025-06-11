@@ -4,7 +4,7 @@
 
 Analyze monthly sales performance by summarizing revenue and order volume over time.
 
-SQL Components Used:
+# SQL Components Used:
 
 USE sales;
 
